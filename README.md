@@ -1,10 +1,10 @@
-# Java-bhi-nahi-aati-haiiii
-
-<h3> CS2112 STUFF </h3>
-<br>
-<br> <br>
-A0 - DONE!
-<br>
-A1 - Incomplete but finished RSA so I'm done.
-<br>
-A2 - Soon....
+# Micro Projects:
+## Currently includes:
+ - **RSA encryption/decryption suite**
+   [x] 1024-bit Encryption keys
+   [x] Keys read/write .txt file support
+   [x] Supports arbitrarily big file sizes and formats
+   [ ] Tamper-proofing using SHA hashes
+   [ ] Non-deterministic output using random data injection
+   [ ] More efficient and faster byte-stream processing
+- 
